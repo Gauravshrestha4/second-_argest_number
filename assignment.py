@@ -32,4 +32,4 @@ def find_second_highest(arr):
     return str(second_highest) if second_highest!=highest else "-1"
     
 
-print(find_second_highest(arr))
+
